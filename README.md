@@ -7,8 +7,8 @@
 ---
 
 ### 🌸 About Me
-- 🎓 Student at **[Your University Name]**
-- 💼 Working on **UrbanEdgeMART** & **AcademiX Dashboard**
+- 🎓 Student at **[NIT PATNA]**
+- 💼 Working on **UrbanEdgeMART** 
 - 🌱 Currently learning **Advanced React, Flask, and Machine Learning**
 - 💡 Fun fact: I debug with chai ☕ and pastel colors 🎨
 
@@ -23,8 +23,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjali-rani&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-rani&theme=tokyonight" alt="GitHub streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anjali28082003&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjali28082003&theme=tokyonight" alt="GitHub streak" height="160"/>
 </p>
 
 ---
