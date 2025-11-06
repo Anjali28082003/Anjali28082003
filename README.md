@@ -8,8 +8,7 @@
 
 ### 🌸 About Me
 - 🎓 Student at **[NIT PATNA]**
-- 💼 Working on **UrbanEdgeMART** 
-- 🌱 Currently learning **Advanced React, Flask, and Machine Learning**
+- 🌱 Currently learning **Advanced React and Machine Learning**
 - 💡 Fun fact: I debug with chai ☕ and pastel colors 🎨
 
 ---
